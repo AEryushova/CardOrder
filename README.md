@@ -1,3 +1,5 @@
 # Project Sample  [![Build status](https://ci.appveyor.com/api/projects/status/xfdyklrxclcj1kgf?svg=true)](https://ci.appveyor.com/project/AEryushova/cardorder)
-# This repository was created for the "CardOrder" task in Netology! 
+# This repository was created for the "CardOrder" task.
+(UI tests with Selenium)
+
 [![cEt.gif](https://i.postimg.cc/SQBZwbWV/cEt.gif)](https://postimg.cc/4n1b9M2h)
